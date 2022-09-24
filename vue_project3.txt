@@ -1,0 +1,19 @@
+1==>
+
+<Keep Alive>
+---------------
+ a component will be unmounted when it is switched away from that component. 
+ We can force the inactive components to stay "alive" with the built-in <KeepAlive> component.
+
+2==>
+scope in style
+-----------------
+When a <style> tag has the scoped attribute, its CSS will apply to elements of the current component only. 
+This is similar to the style encapsulation found in Shadow DOM.
+
+3==>
+code splitting
+-----------------
+Code splitting is where a tool splits the application bundle into multiple smaller chunks, which can then be loaded on demand or in parallel.
+
+

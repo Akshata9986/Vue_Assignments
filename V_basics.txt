@@ -1,0 +1,35 @@
+1==>what is vue
+
+Vue is a JavaScript framework for building user interfaces.
+
+Vue is a framework and ecosystem that covers most of the common features needed in frontend development. 
+
+Vue can be used in different ways:
+
+Enhancing static HTML without a build step
+Embedding as Web Components on any page
+Single-Page Application (SPA)
+Fullstack / Server-Side Rendering (SSR)
+Jamstack / Static Site Generation (SSG)
+Targeting desktop, mobile, WebGL, and even the terminal
+
+2==>why vue.js
+
+VueJS is primarily used to build web interfaces and one-page applications. 
+In saying that, it can also be applied to both desktop and mobile app development 
+
+Easy for two-way-binding
+create dynamic front end apps and websites
+fast and lightweight
+
+
+3==>Single page application
+
+Vue not only controls the entire page, but also handles data updates and navigation without having to reload the page.
+ This type of application is typically referred to as a Single-Page Application (SPA).
+
+5==>Directives in vue
+
+default set of directivesare  v-model or v-show
+
+we have v-on:click="func_name"
